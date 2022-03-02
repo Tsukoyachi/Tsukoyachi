@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsukoyachi
 - 👀 I’m interested in python, java, html5/css and arduino
-- 🌱 I’m currently learning java, html5/css and arduino
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
