@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsukoyachi
-- 👀 I’m interested in python, java, html5/css and arduino
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Angular, javascript, python, java, html5/css and arduino
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking for an apprenticeship of 3 year.
 - 📫 How to reach me ...
 
