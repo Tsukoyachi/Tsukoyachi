@@ -1,12 +1,65 @@
-👋 Hey there! I'm Axel Delille, a passionate Computer Science student from Polytech Nice Sophia diving into the world of backend development at Air France KLM since 2022. 
+# 👋 Hi there, I'm Axel Delille aka Tsukoyachi
 
-🚀 Currently, I'm honing my skills in crafting robust and efficient backend solutions while exploring the latest technologies in the field. 
+## 💼 Full-Stack Developer
 
-💻 I'm specialized in API development, more precisely in micro-services architecture. Let's connect and collaborate on innovative projects! 🌟
+🔧 I'm passionate about software engineering and enjoy building robust, scalable, and well-structured systems.  
+I specialize in backend distributed architectures but I also contribute to frontend projects.
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-<!---
-Tsukoyachi/Tsukoyachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+
+#### 🧠 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apache-kafka&logoColor=white" />
+</p>
+
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" />
+</p>
+
+#### ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AKS-%230072C6.svg?style=flat&logo=azure-kubernetes-service&logoColor=white" />
+</p>
+
+#### 🧩 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🌍 Languages
+
+- 🇫🇷 Native French  
+- 🇬🇧 English — C1
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsukoyachi&show_icons=true&theme=default&hide_title=false&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukoyachi&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/axel-delille/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
