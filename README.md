@@ -60,6 +60,6 @@ I specialize in backend distributed architectures but I also contribute to front
 
 <p align="center">
   <a href="https://www.linkedin.com/in/axel-delille/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
